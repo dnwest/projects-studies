@@ -2,6 +2,7 @@
 <html>
   <head>
     <title><%= title %></title>
+    <link rel='stylesheet' href='/styles/main.css' />
   </head>
   <body>
     <main>
@@ -9,7 +10,7 @@
       <p>Bem vindo(a) ao <strong><%= title %></strong></p>
       <strong><%= name %></strong>
       <p><%= profession %></p>
-      <p><%= description %></p>
+      <p><%= company %></p>
       <ul>
       <% experience.map(experience => { %>
           <li>

@@ -1,19 +1,19 @@
 {
   "name": "curriculo-expresso",
   "version": "1.0.0",
-  "description": "Estudando Express",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node_modules/nodemon/bin/nodemon.js app"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.2"
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^1.19.1"
   }
 }
