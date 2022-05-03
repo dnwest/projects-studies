@@ -1,3 +1,3 @@
 # projects-studies
 
-Aprendendo e treinando 
+### Training technologies
