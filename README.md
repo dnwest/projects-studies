@@ -1,3 +1,3 @@
 # projects-studies
 
-### Training technologies
+### Training
